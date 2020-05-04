@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a2d3f9e-8f0a-4b59-9c07-bef07a1e294d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ch_7_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch8_lists.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="13b33cc7-4158-458c-bf1f-a02f814da016" />
+  <component name="ProjectId" id="1bNx1TwUkLiHbZ6TN1J0STFI3Nw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ch_7_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PY4E" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ch_7_lists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a2d3f9e-8f0a-4b59-9c07-bef07a1e294d" name="Default Changelist" comment="" />
+      <created>1588486137812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588486137812</updated>
+      <workItem from="1588486167643" duration="105000" />
+      <workItem from="1588486390428" duration="63000" />
+      <workItem from="1588487184032" duration="32000" />
+      <workItem from="1588562732029" duration="997000" />
+      <workItem from="1588563899122" duration="4290000" />
+      <workItem from="1588577260160" duration="676000" />
+      <workItem from="1588603739794" duration="162000" />
+      <workItem from="1588604484460" duration="860000" />
+      <workItem from="1588611740092" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="23" key="#ch_7" timestamp="1588562831469">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state x="326" y="23" key="#ch_7/0.23.1280.741@0.23.1280.741" timestamp="1588562831469" />
+    <state x="326" y="23" key="#ch_7_lists" timestamp="1588562842905">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state x="326" y="23" key="#ch_7_lists/0.23.1280.741@0.23.1280.741" timestamp="1588562842905" />
+    <state x="104" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588564824769">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state x="104" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.741@0.23.1280.741" timestamp="1588564824769" />
+    <state x="217" y="23" key="CommitChangelistDialog2" timestamp="1588605613695">
+      <screen x="0" y="23" width="1280" height="743" />
+    </state>
+    <state x="217" y="23" key="CommitChangelistDialog2/0.23.1280.743@0.23.1280.743" timestamp="1588605613695" />
+    <state width="1218" height="172" key="GridCell.Tab.0.bottom" timestamp="1588563879537">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state width="1218" height="171" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1588486272864" />
+    <state width="1218" height="172" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1588563694781" />
+    <state width="1218" height="172" key="GridCell.Tab.0.bottom/0.23.1280.741@0.23.1280.741" timestamp="1588563879537" />
+    <state width="1218" height="172" key="GridCell.Tab.0.center" timestamp="1588563879536">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state width="1218" height="171" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1588486272863" />
+    <state width="1218" height="172" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1588563694780" />
+    <state width="1218" height="172" key="GridCell.Tab.0.center/0.23.1280.741@0.23.1280.741" timestamp="1588563879536" />
+    <state width="1218" height="172" key="GridCell.Tab.0.left" timestamp="1588563879536">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state width="1218" height="171" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1588486272863" />
+    <state width="1218" height="172" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1588563694779" />
+    <state width="1218" height="172" key="GridCell.Tab.0.left/0.23.1280.741@0.23.1280.741" timestamp="1588563879536" />
+    <state width="1218" height="172" key="GridCell.Tab.0.right" timestamp="1588563879537">
+      <screen x="0" y="23" width="1280" height="741" />
+    </state>
+    <state width="1218" height="171" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1588486272864" />
+    <state width="1218" height="172" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1588563694780" />
+    <state width="1218" height="172" key="GridCell.Tab.0.right/0.23.1280.741@0.23.1280.741" timestamp="1588563879537" />
+    <state x="141" y="33" key="SettingsEditor" timestamp="1588603820318">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="141" y="33" key="SettingsEditor/0.23.1280.742@0.23.1280.742" timestamp="1588603820318" />
+    <state x="386" y="236" width="700" height="532" key="recent.locations.popup" timestamp="1588578034499">
+      <screen x="0" y="23" width="1280" height="743" />
+    </state>
+    <state x="386" y="235" width="700" height="530" key="recent.locations.popup/0.23.1280.741@0.23.1280.741" timestamp="1588565505555" />
+    <state x="386" y="236" width="700" height="532" key="recent.locations.popup/0.23.1280.743@0.23.1280.743" timestamp="1588578034499" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PY4E$ch_7.coverage" NAME="ch_7 Coverage Results" MODIFIED="1588486247865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PY4E$ch_7_lists__1_.coverage" NAME="ch_7_lists (1) Coverage Results" MODIFIED="1588563617195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
