@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+
 # List is a collection
 friends = ['Joseph', 'Glenn', 'Sally']
 print(friends)
@@ -158,6 +162,9 @@ friends = ['Joseph', 'Glenn', 'Sally']
 friends.sort()
 print(friends)
 
+# In[21]:
+
+
 # Deleting elements
 # There are several ways to delete elements from a list.
 # If you know the index of the element you want, you can use pop:
@@ -166,6 +173,9 @@ x = t.pop(1)
 print(t)
 print(x)
 
+
+
+
 # pop modifies the list and returns the element that was removed.
 # If you don’t provide an index, it deletes and returns the last element.
 t = ['a', 'b', 'c']
@@ -173,15 +183,23 @@ x = t.pop()
 print(t)
 print(x)
 
+
+
+
 # If you don’t need the removed value, you can use the del operator:
 t = ['a', 'b', 'c']
 del t[1]
 print(t)
 
+
+
+
 # If you know the element you want to remove (but not the index), you can use remove:
 t = ['a', 'b', 'c', 'b']
 t.remove('b')
 print(t)
+
+
 
 # The return value from remove is None.
 # To remove more than one element, you can use del with a slice index:
@@ -191,11 +209,14 @@ print(t)
 
 # Built-in Functions and Lists
 nums = [3, 41, 12, 9, 74, 15]
-print(len(nums))
+print(len(nums))  # it will return the size of the list
 print(max(nums))
 print(min(nums))
 print(sum(nums))  # Only works, when the list elements are numbers
-print(sum(nums) / len(nums))
+print(sum(nums) / len(nums))  # to calcualte the average
+
+
+
 
 # Calcualting average using biult in functions and variables
 total = 0
@@ -211,40 +232,57 @@ while (True):
 average = total / count
 print('Average:', average)
 
+
+
+
 # Calcualting average using biult in functions and list
 
 numlist = list()  # Created an empty list
 while True:
     inp = input('Enter a number: ')
     if inp == 'done': break
-    value = float(inp)
+    value = float(inp)  # Explict casting. User input is always have a String datatype
     numlist.append(value)
 
 average = sum(numlist) / len(numlist)
 print('Average:', average)
 
+
+
+
 # Relationship between Stings and List - They are best  friends
 # A string is a sequence of characters and a list is a sequence of values, but 
 # a list of characters is not the same as a string. 
-# To convert from a string to a list of characters, you can use list function
+# To convert from a string to a list of characters, you can use buil in function list
 
 s = 'spam'
+print(type(s))
 t = list(s)
 print(t)
 
-# Split function breaks a string into parts and produces a list of strings.
+
+
+
+# Split method breaks a string into parts and produces a list of strings. 
 # We think of these as words. We can access a particular word or loop through all the words.
 
 abc = 'With three words'
+print(len(abc))
 stuff = abc.split()
 print(stuff)
 print(len(stuff))
-print(stuff[0])
+print(stuff[2])
+
+
+
 
 # Accesing using lopps
 print(stuff)
 for w in stuff:
     print(w)
+
+
+
 
 # Delimiter
 # When you do not specify a delimiter, multiple spaces are treated like one delimiter
@@ -252,11 +290,17 @@ line = 'A lot of        Spaces'
 etc = line.split()
 print(etc)
 
+
+
+
 # When there is no space between the characters, they are treted as a single
 line = 'first;second;third'
 thing = line.split()
 print(thing)
 print(len(thing))
+
+
+
 
 # You can specify what delimiter character to use in the splitting
 line = 'first;second;third'
@@ -264,20 +308,31 @@ thing = line.split(';')
 print(thing)
 print(len(thing))
 
+
+
+
 s = 'spam-spam-spam'
 delimiter = '-'
 s.split(delimiter)
+
+
+
 
 # join is the inverse of split. It takes a list of strings and concatenates the elements.
 t = ['pining', 'for', 'the', 'fjords']
 delimiter = ' '
 delimiter.join(t)
 
+
+
+
 # Parsing lines or files
 line = 'From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008'
 words = line.split()
 print(words)
-# print(words[2])
+print(words[2])
+
+
 
 
 fhand = open('mbox-short.txt')
@@ -286,3 +341,13 @@ for line in fhand:
     if not line.startswith('From '): continue
     words = line.split()
     print(words[2])
+
+
+
+help(list.sort)
+
+
+
+a = 'banana'
+b = 'banana'
+a is b
